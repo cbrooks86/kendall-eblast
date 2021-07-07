@@ -1,0 +1,122 @@
+<mjml>
+  <mj-head>
+    <mj-preview>Kendall: Built Stronger from the Inside Out</mj-preview>
+    <mj-title>Kendall: Built Stronger from the Inside Out</mj-title>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Arial, sans-serif;"></mj-all>
+    </mj-attributes>
+    <mjml></mjml>
+    <mjml owa="desktop">
+      <mj-style inline="inline">
+        .show_on_mobile table,
+        .show_on_mobile-outlook table {
+        display: none;
+        mso-hide: all;
+        overflow: hidden;
+        }
+      </mj-style>
+      <mj-style>
+        @media screen and (max-width: 480px) {
+        *[class~=hide_on_mobile],
+        *[class~=hide_on_mobile] * {
+        display: none !important;
+        }
+        .show_on_mobile table,
+        .show_on_mobile-outlook table {
+        display: block !important;
+        }
+        }
+      </mj-style>
+  </mj-head>
+  <mj-body width="600px" background-color="#ffffff">
+    <mj-raw>
+      <style type="text/css">
+        @media screen and (max-width: 480px) {
+          .mobile-align div {
+            text-align: center !Important;
+          }
+      </style>
+      <!-- DO NOT PRETTYFY BELOW-->
+      <style data-ignore-inlining>@media print{ #_t { background-image: url('https://v1f7aqic.emltrk.com/v1f7aqic?p&d=*|EMAIL|*&t=q3');}} div.OutlookMessageHeader {background-image:url('https://v1f7aqic.emltrk.com/v1f7aqic?f&d=*|EMAIL|*&t=q3')} table.moz-email-headers-table {background-image:url('https://v1f7aqic.emltrk.com/v1f7aqic?f&d=*|EMAIL|*&t=q3')} blockquote #_t {background-image:url('https://v1f7aqic.emltrk.com/v1f7aqic?f&d=*|EMAIL|*&t=q3')} #MailContainerBody #_t {background-image:url('https://v1f7aqic.emltrk.com/v1f7aqic?f&d=*|EMAIL|*&t=q3')}</style><div id="_t"></div>
+<img src="https://v1f7aqic.emltrk.com/v1f7aqic?d=*|EMAIL|*&t=q3" width="1" height="1" border="0" alt="" />
+      <div id="_t"></div>
+      <img src="https://v1f7aqic.emltrk.com/v1f7aqic?d=*|EMAIL|*&t=q3" width="1" height="1" border="0" alt="" />
+<!-- DO NOT PRETTYFY ABOVE-->
+    </mj-raw>
+    <!-- NEW SECTION BEGINS-->
+    <mj-section background-color="#FFFFFF" padding="50px 30px 30px 30px">
+      <mj-column background-color="#FFFFFF" padding="0px">
+        <mj-image width="150px" src="https://blne.sfo2.digitaloceanspaces.com/Kendall/19-KENDALL-1793/kendall-horiz-rev.png" padding="0" fluid-on-mobile="true" container-background-color="#FFFFFF" align="left" href="https://www.kendallmotoroil.com?utm_campaign=kendall_hdeo&utm_source=fleet_owner&utm_medium=eblast_august&utm_content=homepage" />
+      </mj-column>
+    </mj-section>
+    <!-- NEW SECTION ENDS-->
+
+    <!-- NEW SECTION BEGINS-->
+    <mj-section background-color="#fff" padding="0px 0px 50px 0px">
+      <mj-column padding="0px">
+        <mj-text css-class="hero-content-header" padding="0px 30px 0px 30px" color="#000000" align="left" line-height="26px">
+          <p style="margin:0px;font-size:16px;font-weight:400;font-family:Helvetica Neue,Arial,Sans-Serif;line-height:26px;">Dear [recipient name goes here],
+            <br /><br />
+            Fleets are constantly looking for ways to improve fuel economy with the latest innovation. Kendall<sup style="font-size:10px;">&reg;</sup> low viscosity API FA-4 oils are formulated to deliver fuel economy without compromising durability. Kendall Super-D<sup style="font-size:10px;">&reg;</sup> FE 10W-30 increases fuel economy by up to 2% and delivers superior wear protection that fleets rely on. Super-D FE is backed by an industry-leading warranty, allowing fleet managers to focus on building a stronger fleet from the inside out with lower fuel and maintenance costs. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- NEW SECTION ENDS-->
+
+    <!-- NEW SECTION BEGINS-->
+    <mj-section background-color="#aa192b" padding="50px 0px 0px 0px" full-width="full-width">
+      <mj-group>
+        <mj-column padding="0px">
+          <mj-text padding="0px 30px">
+            <p style="margin:0px;font-size: 21px;font-weight: bolder;font-style: normal;font-stretch: normal;line-height: 1.14;letter-spacing: normal;color: #ffffff;font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;">Explore our industry-leading warranty.</p>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text padding="0px 30px">
+            <p style="margin:0px;font-size: 16px;font-weight: normal;font-style: normal;font-stretch: normal;line-height: 1.63;letter-spacing: normal;color: #ffffff;font-family:Helvetica Neue,Arial,Sans-Serif;">Build your strongest fleet now. Talk with a Kendall technical expert and learn more about our 10W-30 oils.</p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- NEW SECTION ENDS-->
+    <!-- NEW SECTION BEGINS-->
+    <mj-section background-color="#aa192b" padding="30px 0px 50px 0px" full-width="full-width">
+      <mj-group>
+        <mj-column>
+          <mj-image src="https://blne.sfo2.digitaloceanspaces.com/Kendall/19-KENDALL-1793/learn-more.png" width="270px" fluid-on-mobile="true" href="https://s3.amazonaws.com/phillips66-media/misc/content/KENDALL/pdfs/Kendall-Heavy-Duty-Super-D-FE-Warranty.pdf?utm_campaign=kendall_hdeo&utm_source=fleet_owner&utm_medium=eblast_august&utm_content=warranty_pdf"></mj-image>
+          <!--<mj-button padding="0px 13px" background-color="#fff" border-radius="0" width="100%" height="60px" href="https://s3.amazonaws.com/phillips66-media/misc/content/KENDALL/pdfs/Kendall-Heavy-Duty-Super-D-FE-Warranty.pdf?utm_campaign=kendall_hdeo&utm_source=fleet_owner&utm_medium=eblast_august&utm_content=warranty_pdf" font-family="'Arial Black', 'Arial Bold', Gadget, sans-serif;" font-size="24px" color="#aa192b">Learn More</mj-button> -->
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://blne.sfo2.digitaloceanspaces.com/Kendall/19-KENDALL-1793/call.png" width="270px" fluid-on-mobile="true" href="https://www.kendallmotoroil.com/superdfe/?utm_campaign=kendall_hdeo&utm_source=fleet_owner&utm_medium=eblast_august&utm_content=super_fe"></mj-image>
+          <!-- <mj-button padding="0px 13px" background-color="#fff" border-radius="0" width="100%" height="60px" href="https://www.kendallmotoroil.com/superdfe/?utm_campaign=kendall_hdeo&utm_source=fleet_owner&utm_medium=eblast_august&utm_content=super_fe" font-family="'Arial Black', 'Arial Bold', Gadget, sans-serif;" font-size="24px" color="#aa192b">Request a Call</mj-button> -->
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- NEW SECTION ENDS-->
+    <!-- NEW SECTION BEGINS-->
+
+    <mj-section full-width="full-width" background-color="#e6e7e9" padding="50px">
+      <mj-column>
+        <mj-image padding="0px 27px 0px 0px" href="https://www.kendallmotoroil.com/" width="476px" src="https://blne.sfo2.digitaloceanspaces.com/Kendall/19-KENDALL-1793/footer-image.png" />
+        <mj-social font-size="15px" icon-size="40px" mode="horizontal" align="center" padding="50px 5px 0px 0px">
+          <mj-social-element padding="12px" href="https://www.facebook.com/KendallMotorOil" src="https://blne.sfo2.digitaloceanspaces.com/Kendall/19-KENDALL-1793/facebook.png">
+
+          </mj-social-element>
+          <mj-social-element padding="12px" href="https://www.youtube.com/user/OfficialKendallOil" src="https://blne.sfo2.digitaloceanspaces.com/Kendall/19-KENDALL-1793/youtube.png">
+          </mj-social-element>
+
+        </mj-social>
+
+        <mj-text padding="20px 20px 20px 20px" color="#000" font-family="Helvetica Neue, Arial, Sans-Serif" align="center" font-size="16px" line-height="22px" font-weight="400">Copyright &copy; 2019 Kendall Motor Oil. All Rights Reserved.<br />
+          Kendall Motor Oil<br />
+          Phone: 800.368.7128<br />
+          2331 CityWest Blvd Houston, TX 77042<br />
+          <br /><br />This e-mail has been sent to [[EMAIL_TO]], click <a href="[[UNSUB_LINK_EN]]" style="color:#000000">here</a> to unsubscribe.
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+    <!-- NEW SECTION BEGINS-->
+
+  </mj-body>
+</mjml>
